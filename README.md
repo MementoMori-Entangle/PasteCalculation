@@ -1,4 +1,4 @@
-#Windowsアプリツールシリーズ
+# Windowsアプリツールシリーズ
 
 PasteCalculation  
 貼り付け計算機
